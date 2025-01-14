@@ -21,7 +21,7 @@ expenseForm.addEventListener('submit', function(event) {
     const expenseCategory = expenseCategoryInput.value;
     const expenseDescription = expenseDescriptionInput.value;
 
-    // Create a new expense object
+    // Create a new expense object in
     const expense = {
         name: expenseName,
         amount: expenseAmount,
