@@ -1,4 +1,4 @@
-﻿# FinancialTracker
+﻿# FinancialTrackerWeb
 # Financial Expense Tracker
 
 A simple web-based application to track financial expenses. The app allows users to log their expenses, categorize them, and view basic reports on their spending. It is built with **HTML**, **CSS**, and **JavaScript**, and provides an intuitive interface to manage personal finances.
