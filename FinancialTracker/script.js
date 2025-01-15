@@ -65,7 +65,7 @@ function updateExpenseList() {
         `;
         expenseList.appendChild(expenseItem);
 
-        // Add a temporary highlight effect when the item is added
+        // Add a temporary highlight effect when the item is added to it
         setTimeout(() => {
             expenseItem.classList.add('highlight');
             setTimeout(() => expenseItem.classList.remove('highlight'), 1000);
